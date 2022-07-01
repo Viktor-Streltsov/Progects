@@ -1,0 +1,17 @@
+{
+  "name": "marvel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel pablic/index.html --open",
+    "build": "parcel build pablic/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "postcss-modules": "^3.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
