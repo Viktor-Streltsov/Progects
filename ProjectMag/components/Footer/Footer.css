@@ -1,0 +1,19 @@
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    padding: var(--spacing-medium);
+    background-color: var(--color-medium);
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
+}
+
+.footer-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-set {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}

@@ -1,0 +1,63 @@
+[
+    {
+        "id": "el1",
+        "name": "Notebook Foxcon Silver Intel Quad Core N3450",
+        "img": "https://i.ibb.co/BB3Mc0Z/d595dcea03d0d60758adf3a24a573499.jpg",
+        "price": 500
+    },
+    {
+        "id": "el2",
+        "name": "Notebook YEPO Silver Intel Quad Core J3455 (up to 2.3Ghz)",
+        "img": "https://i.ibb.co/Zx2bR8t/ce487f0f31527075704a7e27a5b3299d.jpg",
+        "price": 670
+    },
+    {
+        "id": "el3",
+        "name": "Acer TravelMate TMB118-M Black Intel Quad Core N4120",
+        "img": "https://i.ibb.co/4fQ9cJ4/648525b56d44dc44cb4f352450552660.jpghR/3.jpg",
+        "price": 560
+    },
+    {
+        "id": "el4",
+        "name": "Notebook Foxcon Silver Intel Quad Core N3450",
+        "img": "https://i.ibb.co/NTYQyxS/5975a1efe87ce1b92378e6fbae563295.jpg",
+        "price": 700
+    },
+    {
+        "id": "el5",
+        "name": "Lenovo Ideapad V14 Iron Gray Intel Dual Core N4020",
+        "img": "https://i.ibb.co/sVp2Dww/43c9733aaddf721e6a098e3b388a310c.jpg",
+        "price": 690
+    },
+    {
+        "id": "el6",
+        "name": "Lenovo Ideapad V14 Iron Gray Intel Dual Core N4020 ",
+        "img": "https://i.ibb.co/rHb4TCx/19f18d54de3e619665eaf95f6580e8f9.jpg",
+        "price": 600
+    },
+    {
+        "id": "el7",
+        "name": "Lenovo V14 Celeron DC N4020 1.1-2.8GHz,4GB,SSD",
+        "img": "https://i.ibb.co/GVdfvsx/9fe853a3f4c0e9fc1984b7508e8e0ba0.jpg",
+        "price": 800
+    },
+    {
+        "id": "el8",
+        "name": "Notebook Foxcon Silver Intel Quad Core N3450",
+        "img": "https://i.ibb.co/3zVXKjf/9b6a66428e454436d33422ad7c62e477.jpg",
+        "price": 700
+    },
+    {
+        "id": "el9",
+        "name": "Acer A315-34 Celeron N4000 1.1-2.6GHz,4GB,500GB, 15.6 HD",
+        "img": "https://i.ibb.co/qg8TZyF/3fb28829896ab0ab05cef7170d250eee.jpg",
+        "price": 780
+    },
+    {
+        "id": "el10",
+        "name": "Haier U1500SD (Intel Celeron N4000)",
+        "img": "https://i.ibb.co/qdD3hzc/0e0cbc7a7985a9125f2530751f98e700.jpg",
+        "price": 990
+    }
+]
+

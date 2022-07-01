@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Splash&display=swap');
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    padding: var(--spacing-small);
+    background-color: var(--color-medium);
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
+}
+
+.header-counter {
+    padding-right: var(--spacing-small);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.header-logo {
+    font-family: 'Splash', cursive;
+    text-transform: capitalize;
+    font-size: 40px;
+}
